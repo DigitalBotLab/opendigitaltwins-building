@@ -1,0 +1,19 @@
+{
+  "@id": "dtmi:com:digitalbotlab:BackOfHouseArea;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Back of House Area"
+  },
+  "description": {
+    "en": "An area within a building, generally a hotel or restaurant, designated for fundamental operations where the guests or customers do not occupy or have access."
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:BuildingOperationsArea;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

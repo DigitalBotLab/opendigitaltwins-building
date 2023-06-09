@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:CompressorRunSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Compressor Run Sensor"
+  },
+  "description": {"en": "The boolean compressor status from a sensor where 'run' is 'true'"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:RunSensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

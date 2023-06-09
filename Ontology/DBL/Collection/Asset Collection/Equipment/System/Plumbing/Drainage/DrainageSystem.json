@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:DrainageSystem;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Drainage System"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:PlumbingSystem;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

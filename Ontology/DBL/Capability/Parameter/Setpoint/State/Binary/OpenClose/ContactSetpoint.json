@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:ContactSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Contact Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:OpenCloseSetpoint;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

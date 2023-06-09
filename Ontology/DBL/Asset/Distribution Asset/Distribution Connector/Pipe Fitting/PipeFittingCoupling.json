@@ -1,0 +1,14 @@
+{
+  "@id": "dtmi:com:digitalbotlab:PipeFittingCoupling;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Pipe Fitting Coupling"
+  },
+  "extends": "dtmi:com:digitalbotlab:PipeFitting;1",
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:DrinkingFountain;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Drinking Fountain"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:DrinkingWaterFixture;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

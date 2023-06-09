@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:HVACReturnAirSystem;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "HVAC Return Air System"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:HVACConditionedAirSystem;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

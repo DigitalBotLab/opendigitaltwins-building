@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:PeopleFlowSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "People Flow Sensor"
+  },
+  "description": {"en": "The people flow feedback from a sensor"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:ObjectFlowSensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

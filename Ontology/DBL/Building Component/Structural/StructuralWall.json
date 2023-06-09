@@ -1,0 +1,14 @@
+{
+  "@id": "dtmi:com:digitalbotlab:StructuralWall;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Structural Wall"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:StructuralBuildingComponent;1",
+    "dtmi:com:digitalbotlab:Wall;1"
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

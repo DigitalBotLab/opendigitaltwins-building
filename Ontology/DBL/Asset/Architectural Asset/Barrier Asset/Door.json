@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:Door;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Door"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:BarrierAsset;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

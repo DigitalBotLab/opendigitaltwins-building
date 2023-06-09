@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:RelativeHumiditySetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Relative Humidity Setpoint"
+  },
+  "description": {"en": "The desired value associated with relative humidity"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:HumiditySetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:AirPressureSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Air Pressure Setpoint"
+  },
+  "description": {"en": "The desired value associated withn air pressure"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:PressureSetpoint;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:ChilledWaterPlant;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Chilled Water Plant"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:HVACEquipmentGroup;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

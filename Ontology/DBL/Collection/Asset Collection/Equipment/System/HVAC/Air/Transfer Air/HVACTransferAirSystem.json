@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:HVACTransferAirSystem;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "HVAC Transfer Air System"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:HVACAirSystem;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

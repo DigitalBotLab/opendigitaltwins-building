@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:CondensatePump;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Condensate Pump"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:HVACPump;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

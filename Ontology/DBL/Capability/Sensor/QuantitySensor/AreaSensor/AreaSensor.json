@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:AreaSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Area Sensor"
+  },
+  "description": {"en": "The area feedback from a sensor"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:QuantitySensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

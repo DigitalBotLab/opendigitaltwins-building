@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:WindowHardware;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Window Hardware"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:BarrierAssetHardware;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

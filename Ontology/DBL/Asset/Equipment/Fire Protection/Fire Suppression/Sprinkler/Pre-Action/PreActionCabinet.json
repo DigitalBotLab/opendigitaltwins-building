@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:PreActionCabinet;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Pre-Action Cabinet"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:PreActionEquipment;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

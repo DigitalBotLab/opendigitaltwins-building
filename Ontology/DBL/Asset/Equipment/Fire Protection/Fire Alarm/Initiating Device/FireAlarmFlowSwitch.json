@@ -1,0 +1,11 @@
+{
+  "@id": "dtmi:com:digitalbotlab:FireAlarmFlowSwitch;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Fire Alarm Flow Switch"
+  },
+  "extends": "dtmi:com:digitalbotlab:FireAlarmInitiatingDevice;1",
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

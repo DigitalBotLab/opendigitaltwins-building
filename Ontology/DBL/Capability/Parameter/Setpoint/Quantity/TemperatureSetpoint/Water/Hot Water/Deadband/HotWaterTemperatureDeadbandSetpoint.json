@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:digitalbotlab:HotWaterTemperatureDeadbandSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Hot Water Temperature Deadband Setpoint"
+  },
+  "description": {"en": "The deadband around the hot water temperature setpoint"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:HotWaterTemperatureSetpoint;1",
+    "dtmi:com:digitalbotlab:DeadbandSetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

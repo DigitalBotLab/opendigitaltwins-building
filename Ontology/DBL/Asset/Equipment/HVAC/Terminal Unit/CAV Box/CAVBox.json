@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:CAVBox;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "CAV Box"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:TerminalUnit;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

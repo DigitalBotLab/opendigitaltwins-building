@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:RunLevelSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Run Level Sensor"
+  },
+  "description": {"en": "The run level feedback from a sensor"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:StartLevelSensor;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

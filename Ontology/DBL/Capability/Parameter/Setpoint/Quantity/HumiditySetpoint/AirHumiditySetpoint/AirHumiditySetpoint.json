@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:AirHumiditySetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Air Humidity Setpoint"
+  },
+  "description": {"en": "The desired value associated withn air humidity"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:HumiditySetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

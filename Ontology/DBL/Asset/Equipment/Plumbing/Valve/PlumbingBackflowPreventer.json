@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:PlumbingBackflowPreventer;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Backflow Preventer (Plumbing)"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:PlumbingValve;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

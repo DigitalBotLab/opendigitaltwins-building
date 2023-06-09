@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:FoodserviceDolly;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Foodservice Dolly"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:FoodTransportEquipment;1",
+    "dtmi:com:digitalbotlab:Dolly;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

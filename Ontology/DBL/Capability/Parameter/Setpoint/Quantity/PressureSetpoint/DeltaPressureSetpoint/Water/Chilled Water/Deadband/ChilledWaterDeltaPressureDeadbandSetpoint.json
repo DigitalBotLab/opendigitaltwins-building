@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:digitalbotlab:ChilledWaterDeltaPressureDeadbandSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Chilled Water Delta Pressure Deadband Setpoint"
+  },
+  "description": {"en": "The deadband around the chilled water delta pressure setpoint"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:ChilledWaterDeltaPressureSetpoint;1",
+    "dtmi:com:digitalbotlab:DeadbandSetpoint;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

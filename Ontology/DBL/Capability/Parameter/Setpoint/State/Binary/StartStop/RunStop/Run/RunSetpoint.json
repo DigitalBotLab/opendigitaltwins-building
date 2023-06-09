@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:RunSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Run Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:RunStopSetpoint;1",
+    "dtmi:com:digitalbotlab:StartSetpoint;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

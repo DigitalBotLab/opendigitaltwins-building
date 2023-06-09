@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:MinOutsideAirDamperPositionSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Minimum Outside Air Damper Position Sensor"
+  },
+  "description": {"en": "The damper position percent feedback from a sensor associated with minimum outside air"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:OutsideAirDamperPositionSensor;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

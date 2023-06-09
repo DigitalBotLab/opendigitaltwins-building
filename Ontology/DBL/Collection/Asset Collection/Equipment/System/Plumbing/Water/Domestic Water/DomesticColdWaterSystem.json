@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:DomesticColdWaterSystem;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Domestic Cold Water System"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:DomesticWaterSystem;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

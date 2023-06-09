@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:PlumbingTank;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Plumbing Tank"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:PlumbingEquipment;1",
+    "dtmi:com:digitalbotlab:Tank;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

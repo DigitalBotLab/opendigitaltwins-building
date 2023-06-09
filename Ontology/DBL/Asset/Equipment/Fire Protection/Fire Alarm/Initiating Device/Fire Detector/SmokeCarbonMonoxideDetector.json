@@ -1,0 +1,14 @@
+{
+  "@id": "dtmi:com:digitalbotlab:SmokeCarbonMonoxideDetector;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Smoke and Carbon Monoxide Detector"
+  },
+  "extends": [
+    "dtmi:com:digitalbotlab:SmokeDetector;1",
+    "dtmi:com:digitalbotlab:CarbonMonoxideDetector;1"
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

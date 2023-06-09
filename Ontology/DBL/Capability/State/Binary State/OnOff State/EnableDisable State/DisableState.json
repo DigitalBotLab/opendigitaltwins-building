@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:DisableState;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Disable State"
+  },
+  "description": {"en": "The Boolean state of the equipment which is 'disable' when 'true'"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:EnableDisableState;1",
+    "dtmi:com:digitalbotlab:OffState;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

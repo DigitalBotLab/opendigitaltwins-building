@@ -1,0 +1,23 @@
+{
+  "@id": "dtmi:com:digitalbotlab:DuctSilencer;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Duct Silencer"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:HVACEquipment;1"
+  ],
+  "contents": [
+    {
+      "@type": "Component",
+      "name": "ductInlet",
+      "displayName": {
+        "en": "Duct Inlet"
+      },
+      "schema": "dtmi:com:digitalbotlab:DuctConnection;1"
+    }
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

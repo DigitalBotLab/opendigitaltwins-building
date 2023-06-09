@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:ReplaceFilterState;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Replace Filter State"
+  },
+  "description": {"en": "The Boolean state of the filter which is 'replace' when 'true'"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:ReplaceComponentState;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

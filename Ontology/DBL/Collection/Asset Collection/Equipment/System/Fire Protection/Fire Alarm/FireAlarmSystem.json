@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:FireAlarmSystem;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Fire Alarm System"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:FireProtectionSystem;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

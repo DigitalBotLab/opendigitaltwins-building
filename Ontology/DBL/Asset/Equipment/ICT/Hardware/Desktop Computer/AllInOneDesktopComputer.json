@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:AllInOneDesktopComputer;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "All-In-One Desktop Computer"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:DesktopComputer;1",
+    "dtmi:com:digitalbotlab:ComputerMonitor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

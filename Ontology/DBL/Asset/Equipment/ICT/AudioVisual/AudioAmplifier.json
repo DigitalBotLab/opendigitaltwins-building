@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:AudioAmplifier;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Audio Amplifier"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:AudioVisualEquipment;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

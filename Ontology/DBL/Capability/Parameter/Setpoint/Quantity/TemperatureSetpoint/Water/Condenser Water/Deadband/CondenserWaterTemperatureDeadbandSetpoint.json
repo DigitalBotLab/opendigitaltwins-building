@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:digitalbotlab:CondenserWaterTemperatureDeadbandSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Condenser Water Temperature Deadband Setpoint"
+  },
+  "description": {"en": "The deadband around the condenser water temperature setpoint"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:CondenserWaterTemperatureSetpoint;1",
+    "dtmi:com:digitalbotlab:DeadbandSetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@id": "dtmi:com:digitalbotlab:OccupancyZone;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Occupancy Zone"
+  },
+  "description": {
+    "en": "A zone which is being monitored for occupancy."
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:Zone;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

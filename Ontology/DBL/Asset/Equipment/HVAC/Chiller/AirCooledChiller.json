@@ -1,0 +1,26 @@
+{
+  "@id": "dtmi:com:digitalbotlab:AirCooledChiller;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Air-Cooled Chiller"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:Chiller;1"
+  ],
+  "contents": [
+    {
+      "@type": "Component",
+      "displayName": {
+        "en": "Condenser"
+      },
+      "name": "condenser",
+      "schema": "dtmi:com:digitalbotlab:AirCooledCondenser;1"
+    }
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3",
+    "dtmi:dtdl:extension:quantitativeTypes;1",
+    "dtmi:dtdl:extension:annotation;1",
+    "dtmi:dtdl:extension:overriding;1"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:ModeSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Mode Sensor"
+  },
+  "description": {"en": "The mode feedback from a multi-state sensor"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:Sensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

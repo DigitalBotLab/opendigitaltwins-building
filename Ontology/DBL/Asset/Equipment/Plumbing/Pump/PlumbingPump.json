@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:PlumbingPump;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Plumbing Pump"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:PlumbingEquipment;1",
+    "dtmi:com:digitalbotlab:Pump;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

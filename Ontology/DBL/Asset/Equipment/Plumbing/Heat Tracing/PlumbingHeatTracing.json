@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:PlumbingHeatTracing;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Heat Tracing (Plumbing)"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:PlumbingEquipment;1",
+    "dtmi:com:digitalbotlab:HeatTracing;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:ResetSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Reset Sensor"
+  },
+  "description": {"en": "The boolean status from a sensor where 'reset' is 'true'"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:DefaultSensor;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

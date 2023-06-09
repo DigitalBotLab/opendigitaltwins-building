@@ -1,0 +1,11 @@
+{
+  "@id": "dtmi:com:digitalbotlab:DuctSmokeDetector;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Duct Smoke Detector"
+  },
+  "extends": "dtmi:com:digitalbotlab:SmokeDetector;1",
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:OffSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Off Sensor"
+  },
+  "description": {"en": "The boolean status from a sensor where 'off' is 'true'"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:OnOffSensor;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

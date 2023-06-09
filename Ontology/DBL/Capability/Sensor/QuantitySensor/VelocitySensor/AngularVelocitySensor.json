@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:AngularVelocitySensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Angular Velocity Sensor"
+  },
+  "description": {"en": "The angular velocity feedback from a sensor"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:VelocitySensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

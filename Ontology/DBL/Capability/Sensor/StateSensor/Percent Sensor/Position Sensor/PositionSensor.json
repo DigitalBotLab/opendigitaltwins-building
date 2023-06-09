@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:PositionSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Position Sensor"
+  },
+  "description": {"en": "The position percent feedback from a sensor"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:PercentSensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

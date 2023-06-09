@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:HeatingLevelSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Heating Level Sensor"
+  },
+  "description": {"en": "The 'on' level feedback from a sensor associated with heating"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:OnLevelSensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

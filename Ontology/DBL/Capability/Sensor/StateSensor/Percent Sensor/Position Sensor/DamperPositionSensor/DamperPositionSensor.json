@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:DamperPositionSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Damper Position Sensor"
+  },
+  "description": {"en": "The damper position percent feedback from a sensor associated"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:PositionSensor;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

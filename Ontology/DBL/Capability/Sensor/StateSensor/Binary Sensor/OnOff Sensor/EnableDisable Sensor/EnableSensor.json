@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:EnableSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Enable Sensor"
+  },
+  "description": {"en": "The boolean status from a sensor where 'enable' is 'true'"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:EnableDisableSensor;1",
+    "dtmi:com:digitalbotlab:OnSensor;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:PM10AirQualitySensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "PM10 Air Quality Sensor"
+  },
+  "description": {"en": "The PM10 air quality feedback from a sensor"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:AirQualitySensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

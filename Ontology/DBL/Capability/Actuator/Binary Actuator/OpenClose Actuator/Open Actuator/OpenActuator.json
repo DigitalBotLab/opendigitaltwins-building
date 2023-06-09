@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:OpenActuator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Open Actuator"
+  },
+  "description": {"en": "The boolean command which sets the state of the equipment to 'open' when 'true'"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:OpenCloseActuator;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

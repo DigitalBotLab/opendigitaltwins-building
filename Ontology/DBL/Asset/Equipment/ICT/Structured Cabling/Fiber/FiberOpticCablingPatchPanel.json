@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:FiberOpticCablingPatchPanel;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Fiber Optic Cabling Patch Panel"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:FiberOpticCablingEquipment;1",
+    "dtmi:com:digitalbotlab:PatchPanel;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@id": "dtmi:com:digitalbotlab:RoofLevel;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Roof Level"
+  },
+  "description": {
+    "en": "A level of a building which covers the interior space below."
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:Level;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

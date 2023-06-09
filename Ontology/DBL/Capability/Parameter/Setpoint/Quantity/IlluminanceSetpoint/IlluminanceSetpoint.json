@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:IlluminanceSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Illuminance Setpoint"
+  },
+  "description": {"en": "The desired value associated withn illuminance"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:QuantitySetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

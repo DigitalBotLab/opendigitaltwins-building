@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:FireSmokeDamper;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Fire/Smoke Damper"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:FireDamper;1",
+    "dtmi:com:digitalbotlab:SmokeDamper;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

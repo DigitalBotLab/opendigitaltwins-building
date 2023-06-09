@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:CondenserWaterPumpVFDRunLevelActuator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Condenser Water Pump VFD Run Level Actuator"
+  },
+  "description": {"en": "The percent command which sets the run level of the condenser water pump vfd"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:PumpVFDRunLevelActuator;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

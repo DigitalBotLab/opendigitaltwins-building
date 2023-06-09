@@ -1,0 +1,23 @@
+{
+  "@id": "dtmi:com:digitalbotlab:AirFilter;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Air Filter"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:HVACEquipment;1"
+  ],
+  "contents": [
+    {
+      "@type": "Component",
+      "displayName": {
+        "en": "fan"
+      },
+      "name": "fan",
+      "schema": "dtmi:com:digitalbotlab:Fan;1"
+    }
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

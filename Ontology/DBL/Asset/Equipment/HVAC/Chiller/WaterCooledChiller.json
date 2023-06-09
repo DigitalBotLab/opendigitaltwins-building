@@ -1,0 +1,26 @@
+{
+  "@id": "dtmi:com:digitalbotlab:WaterCooledChiller;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Water-Cooled Chiller"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:Chiller;1"
+  ],
+  "contents": [
+    {
+      "@type": "Component",
+      "displayName": {
+        "en": "Condenser"
+      },
+      "name": "condenser",
+      "schema": "dtmi:com:digitalbotlab:WaterCooledCondenser;1"
+    }
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3",
+    "dtmi:dtdl:extension:quantitativeTypes;1",
+    "dtmi:dtdl:extension:annotation;1",
+    "dtmi:dtdl:extension:overriding;1"
+  ]
+}

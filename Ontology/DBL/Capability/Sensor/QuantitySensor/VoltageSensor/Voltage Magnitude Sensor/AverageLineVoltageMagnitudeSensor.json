@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:AverageLineVoltageMagnitudeSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Average Line Voltage (L-L) Magnitude Sensor"
+  },
+  "description": {"en": "The voltage magnitude feedback from a sensor associated with average line"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:VoltageMagnitudeSensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

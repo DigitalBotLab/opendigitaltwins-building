@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:PropaneSystem;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Propane System"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:GasSystem;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

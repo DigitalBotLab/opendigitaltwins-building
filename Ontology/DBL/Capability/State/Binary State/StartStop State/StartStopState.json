@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:StartStopState;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Start/Stop State"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:BinaryState;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

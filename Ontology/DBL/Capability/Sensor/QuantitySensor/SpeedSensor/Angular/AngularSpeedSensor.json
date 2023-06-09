@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:AngularSpeedSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Angular Speed Sensor"
+  },
+  "description": {"en": "The angular speed feedback from a sensor"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:SpeedSensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

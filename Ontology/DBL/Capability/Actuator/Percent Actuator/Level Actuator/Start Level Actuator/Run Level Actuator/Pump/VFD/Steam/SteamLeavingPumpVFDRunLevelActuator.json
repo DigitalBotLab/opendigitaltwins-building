@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:SteamLeavingPumpVFDRunLevelActuator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Steam Leaving Pump VFD Run Level Actuator"
+  },
+  "description": {"en": "The percent command which sets the run level of the steam leaving pump vfd"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:SteamPumpVFDRunLevelActuator;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

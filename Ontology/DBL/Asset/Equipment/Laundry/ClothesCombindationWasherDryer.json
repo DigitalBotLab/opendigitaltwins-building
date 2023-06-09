@@ -1,0 +1,19 @@
+{
+  "@id": "dtmi:com:digitalbotlab:ClothesCombinationWasherDryer;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Combination Washer Dryer"
+  },
+  "description": {
+    "en": "A compact laundry applicance which uses a single drum for washing and drying."
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:ClothesWasher;1",
+    "dtmi:com:digitalbotlab:ClothesDryer;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

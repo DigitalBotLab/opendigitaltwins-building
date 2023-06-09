@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:UrinalWaterless;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Urinal - Waterless"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:Urinal;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

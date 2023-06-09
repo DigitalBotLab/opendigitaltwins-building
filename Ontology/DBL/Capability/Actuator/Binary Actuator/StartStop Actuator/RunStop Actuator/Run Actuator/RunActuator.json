@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:RunActuator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Run Actuator"
+  },
+  "description": {"en": "The boolean command which sets the state of the equipment to 'run' when 'true'"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:RunStopActuator;1",
+    "dtmi:com:digitalbotlab:StartActuator;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:ICTEquipmentGroup;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "ICT Equipment Group"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:EquipmentGroup;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

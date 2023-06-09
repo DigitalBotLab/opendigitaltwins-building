@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:EmergencyLightingPowerInverter;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Emergency Lighting Power Inverter"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:SafetyLighting;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

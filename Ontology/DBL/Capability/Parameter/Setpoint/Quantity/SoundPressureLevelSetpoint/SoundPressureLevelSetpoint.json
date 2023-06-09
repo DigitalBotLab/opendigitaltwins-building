@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:SoundPressureLevelSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Sound Pressure Level Setpoint"
+  },
+  "description": {"en": "The desired value associated with sound pressure level (SPL)"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:QuantitySetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

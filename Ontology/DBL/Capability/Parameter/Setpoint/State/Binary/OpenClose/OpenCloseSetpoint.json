@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:OpenCloseSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Open/Close Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:BinarySetpoint;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

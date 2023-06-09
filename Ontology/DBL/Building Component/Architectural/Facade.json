@@ -1,0 +1,13 @@
+{
+  "@id": "dtmi:com:digitalbotlab:Facade;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Facade"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:ArchitecturalBuildingComponent;1"
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

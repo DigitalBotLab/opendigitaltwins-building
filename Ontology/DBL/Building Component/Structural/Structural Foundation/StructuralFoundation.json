@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:StructuralFoundation;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Structural Foundation"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:StructuralBuildingComponent;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

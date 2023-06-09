@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:ZoneAirTVOCSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Zone Air TVOC Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:AirTVOCSetpoint;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

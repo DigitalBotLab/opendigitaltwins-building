@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:DuressAlarmButton;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Duress Alarm Button"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:AccessControlEquipment;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

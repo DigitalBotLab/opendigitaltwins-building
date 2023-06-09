@@ -1,0 +1,23 @@
+{
+  "@id": "dtmi:com:digitalbotlab:DisconnectSwitch;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Disconnect Switch"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:ElectricalDistributionEquipment;1"
+  ],
+  "contents": [
+    {
+      "@type": "Component",
+      "name": "mainBus",
+      "displayName": {
+        "en": "Main Bus"
+      },
+      "schema": "dtmi:com:digitalbotlab:ElectricalBus;1"
+    }
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

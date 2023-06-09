@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:ResetActuator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Reset Actuator"
+  },
+  "description": {"en": "The boolean command which sets the state of the equipment to 'reset' when 'true'"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:DefaultActuator;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

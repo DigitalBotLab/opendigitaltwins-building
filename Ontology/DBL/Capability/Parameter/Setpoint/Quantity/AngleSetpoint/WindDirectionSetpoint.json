@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:WindDirectionSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Wind Direction Setpoint"
+  },
+  "description": {"en": "The desired value associated with wind direction"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:AngleSetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

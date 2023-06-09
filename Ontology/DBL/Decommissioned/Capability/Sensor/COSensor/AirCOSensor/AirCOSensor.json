@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:AirCOSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Air Carbon Monoxide Sensor"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:COSensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:DefaultState;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Default State"
+  },
+  "description": {"en": "The Boolean state of the equipment which is 'default' when 'true'"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:DefaultOverrideState;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

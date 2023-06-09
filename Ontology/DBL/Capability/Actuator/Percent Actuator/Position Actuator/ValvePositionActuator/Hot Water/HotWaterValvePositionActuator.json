@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:HotWaterValvePositionActuator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Hot Water Valve Position Actuator"
+  },
+  "description": {"en": "The percent command which sets the position of the hot water valve"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:ValvePositionActuator;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

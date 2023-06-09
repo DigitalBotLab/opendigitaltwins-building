@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:PlumbingFixture;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Plumbing Fixture"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:PlumbingEquipment;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

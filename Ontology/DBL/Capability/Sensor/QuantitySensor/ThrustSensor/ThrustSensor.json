@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:ThrustSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Thrust Sensor"
+  },
+  "description": {"en": "The thrust feedback from a sensor"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:QuantitySensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

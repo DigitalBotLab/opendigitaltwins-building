@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:BatterySystem;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Battery System"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:BatteryEquipment;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

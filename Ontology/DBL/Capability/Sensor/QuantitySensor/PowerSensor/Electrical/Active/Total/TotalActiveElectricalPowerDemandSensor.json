@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:TotalActiveElectricalPowerDemandSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Total Active Electrical Power Demand Sensor"
+  },
+  "description": {"en": "The active electrical power demand feedback from a sensor associated with total"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:TotalActiveElectricalPowerSensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

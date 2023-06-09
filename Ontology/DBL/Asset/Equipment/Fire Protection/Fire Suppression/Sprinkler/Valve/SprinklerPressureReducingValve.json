@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:SprinklerPressureReducingValve;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Pressure-reducing Valve (Sprinkler)"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:SprinklerValve;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

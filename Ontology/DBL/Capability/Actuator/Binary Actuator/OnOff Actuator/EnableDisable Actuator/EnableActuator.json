@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:EnableActuator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Enable Actuator"
+  },
+  "description": {"en": "The boolean command which sets the state of the equipment to 'enable' when 'true'"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:EnableDisableActuator;1",
+    "dtmi:com:digitalbotlab:OnActuator;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

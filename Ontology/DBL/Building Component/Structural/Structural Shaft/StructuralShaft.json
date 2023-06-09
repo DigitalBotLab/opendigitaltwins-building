@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:StructuralShaft;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Structural Shaft"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:StructuralBuildingComponent;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

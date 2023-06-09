@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:IceMachine;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Ice Machine"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:RefrigerationEquipment;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

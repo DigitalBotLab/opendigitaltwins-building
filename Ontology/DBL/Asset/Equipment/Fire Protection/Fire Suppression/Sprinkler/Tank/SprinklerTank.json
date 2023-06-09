@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:SprinklerTank;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Sprinkler Tank"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:SprinklerEquipment;1",
+    "dtmi:com:digitalbotlab:Tank;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

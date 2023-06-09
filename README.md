@@ -33,7 +33,7 @@ Before getting started:
     | opendigitaltwins-building\Ontology | DTDL-based RealEstateCore ontology. This is the base set of DTDL models from which the Willow models extend |
     | Willow | This is the set of WillowTwin DTDL models which are used for creating digital twins |
 
-    NOTE: When creating twins in the WillowTwin, they are always based on a Willow DTDL model id which begins with `dtmi:com:willowinc:`.
+    NOTE: When creating twins in the WillowTwin, they are always based on a Willow DTDL model id which begins with `dtmi:com:digitalbotlab:`.
 
 ## Key Concepts
 
@@ -102,7 +102,7 @@ These include diagrams and accompanying narratives to learn how to organize the 
 
 **How do I determine which model to use when deciding between a model which extends another?**
 
-It is recommended to be as specific as possible when creating twins to provide the most detailed classification. As such, the "child" model which extends the "parent" should always be used. For example, when creating a twin of a Fan Powered Box that is known to have a heating element, the model `dtmi:com:willowinc:FanPoweredBoxReheat;1` should be used instead of a more generic model from which it extends such as `dtmi:willowinc:TerminalUnit;1`, `dtmi:willowinc:VAVBox;1`, or `dtmi:willowinc:FanPoweredBox;1`.
+It is recommended to be as specific as possible when creating twins to provide the most detailed classification. As such, the "child" model which extends the "parent" should always be used. For example, when creating a twin of a Fan Powered Box that is known to have a heating element, the model `dtmi:com:digitalbotlab:FanPoweredBoxReheat;1` should be used instead of a more generic model from which it extends such as `dtmi:willowinc:TerminalUnit;1`, `dtmi:willowinc:VAVBox;1`, or `dtmi:willowinc:FanPoweredBox;1`.
 
 **How do I determine whether to use a given relationship or its inverse?**
 

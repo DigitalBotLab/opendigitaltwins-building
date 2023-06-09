@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:CompressorElectricalPowerSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Compressor Electrical Power Sensor"
+  },
+  "description": {"en": "The electrical power feedback from a sensor associated with an integrated compressor"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:ElectricalPowerSensor;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

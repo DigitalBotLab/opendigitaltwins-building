@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:StartActuator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Start Actuator"
+  },
+  "description": {"en": "The boolean command which sets the state of the equipment to 'start' when 'true'"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:StartStopActuator;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:DeltaChilledWaterTemperatureSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Delta Chilled Water Temperature Setpoint"
+  },
+  "description": {"en": "The desired value associated with chilled water delta temperature"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:ChilledWaterTemperatureSetpoint;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

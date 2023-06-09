@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:HydronicBaseboardHeater;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Hydronic Baseboard Heater"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:HydronicRadiantHeater;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

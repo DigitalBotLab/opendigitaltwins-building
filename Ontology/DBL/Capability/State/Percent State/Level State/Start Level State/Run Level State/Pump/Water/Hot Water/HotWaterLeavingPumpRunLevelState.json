@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:HotWaterLeavingPumpRunLevelState;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Hot Water Leaving Pump Run Level State"
+  },
+  "description": {"en": "The percent run level state of the leaving hot water pump"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:HotWaterPumpRunLevelState;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

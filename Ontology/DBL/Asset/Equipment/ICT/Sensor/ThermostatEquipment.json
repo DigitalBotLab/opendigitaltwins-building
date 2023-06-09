@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:ThermostatEquipment;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Thermostat"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:SensorEquipment;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:EmergencyPreparednessEquipment;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Emergency Preparedness Equipment"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:SafetyEquipment;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:LuminousIntensitySetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Luminous Intensity Setpoint"
+  },
+  "description": {"en": "The desired value associated with luminous intensity"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:QuantitySetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

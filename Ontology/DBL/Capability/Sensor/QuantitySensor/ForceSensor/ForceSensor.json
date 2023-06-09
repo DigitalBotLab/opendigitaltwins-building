@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:ForceSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Force Sensor"
+  },
+  "description": {"en": "The force feedback from a sensor"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:QuantitySensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

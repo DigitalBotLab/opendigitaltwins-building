@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:FaultResetActuator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Fault Reset Actuator"
+  },
+  "description": {"en": "The boolean command which sets the state of the fault to 'reset' when 'true'"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:ResetActuator;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

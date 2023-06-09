@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:DefaultOverrideSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Default/Override Sensor"
+  },
+  "description": {"en": "The boolean status from a sensor where 'override' is 'true' and 'default' is 'false'"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:BinarySensor;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

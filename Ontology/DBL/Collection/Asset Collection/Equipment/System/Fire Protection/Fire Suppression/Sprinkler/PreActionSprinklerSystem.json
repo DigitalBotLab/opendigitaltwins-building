@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:PreActionSprinklerSystem;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Pre-Action Sprinkler System"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:SprinklerSystem;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

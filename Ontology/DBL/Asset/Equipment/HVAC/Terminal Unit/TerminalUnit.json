@@ -1,0 +1,68 @@
+{
+  "@id": "dtmi:com:digitalbotlab:TerminalUnit;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Terminal Unit"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:HVACEquipment;1"
+  ],
+  "contents": [
+    {
+      "@type": ["Property", "VolumeFlowRate"],
+      "displayName": {
+        "en": "minimum airflow rating"
+      },
+      "name": "minAirflowRating",
+      "schema": "double",
+      "unit": "litrePerSecond",
+      "writable": true
+    },
+    {
+      "@type": ["Property", "ValueAnnotation", "Override"],
+      "displayName": {
+        "en": "minimum airflow rating unit"
+      },
+      "name": "minAirflowRatingUnit",
+      "annotates": "minAirflowRating",
+      "overrides": "unit",
+      "schema": "VolumeFlowRateUnit",
+      "writable": true
+    },
+    {
+      "@type": ["Property", "VolumeFlowRate"],
+      "displayName": {
+        "en": "maximum airflow rating"
+      },
+      "name": "maxAirflowRating",
+      "schema": "double",
+      "unit": "litrePerSecond",
+      "writable": true
+    },
+    {
+      "@type": ["Property", "ValueAnnotation", "Override"],
+      "displayName": {
+        "en": "maximum airflow rating unit"
+      },
+      "name": "maxAirflowRatingUnit",
+      "annotates": "maxAirflowRating",
+      "overrides": "unit",
+      "schema": "VolumeFlowRateUnit",
+      "writable": true
+    },
+    {
+      "@type": "Component",
+      "displayName": {
+        "en": "duct inlet"
+      },
+      "name": "ductInlet",
+      "schema": "dtmi:com:digitalbotlab:DuctConnection;1"
+    }
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3",
+    "dtmi:dtdl:extension:quantitativeTypes;1",
+    "dtmi:dtdl:extension:annotation;1",
+    "dtmi:dtdl:extension:overriding;1"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:SprinklerSolenoidValve;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Solenoid Valve (Sprinkler)"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:SprinklerValve;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

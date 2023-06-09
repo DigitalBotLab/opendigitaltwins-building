@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:OccupiedModeActuator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Occupied Mode Actuator"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:ModeActuator;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

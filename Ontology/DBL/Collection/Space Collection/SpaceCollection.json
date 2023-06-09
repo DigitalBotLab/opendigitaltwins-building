@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:SpaceCollection;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Space Collection"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:Collection;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

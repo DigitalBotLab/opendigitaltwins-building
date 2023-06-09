@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:AirTVOCSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Air TVOC Sensor"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:TVOCSetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

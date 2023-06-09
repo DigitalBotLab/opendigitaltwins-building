@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:BilledThermalEnergy;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Billed Thermal Energy"
+  },
+  "description": {"en": "The quantity of thermal energy that is billed to a utility account, typically on a monthly basis. This distinguishes from a typical Thermal Energy Sensor which reports data on a more frequent interval."},
+  "extends" : [
+    "dtmi:com:digitalbotlab:ThermalEnergySensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

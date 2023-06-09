@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:LoadLevelSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Load Level Sensor"
+  },
+  "description": {"en": "The load level feedback from a sensor"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:LevelSensor;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

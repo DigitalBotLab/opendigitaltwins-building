@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:HVACWaterSystem;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "HVAC Water System"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:HVACSystem;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

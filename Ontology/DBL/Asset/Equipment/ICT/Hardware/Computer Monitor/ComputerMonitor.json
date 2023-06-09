@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:ComputerMonitor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Computer Monitor"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:ICTHardware;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

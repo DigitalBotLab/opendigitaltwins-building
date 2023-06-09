@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:CopperCablingPatchPanel;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Copper Cabling Patch Panel"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:CopperCablingEquipment;1",
+    "dtmi:com:digitalbotlab:PatchPanel;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

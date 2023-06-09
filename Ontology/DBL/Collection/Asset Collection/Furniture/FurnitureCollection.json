@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:FurnitureCollection;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Furniture Collection"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:AssetCollection;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

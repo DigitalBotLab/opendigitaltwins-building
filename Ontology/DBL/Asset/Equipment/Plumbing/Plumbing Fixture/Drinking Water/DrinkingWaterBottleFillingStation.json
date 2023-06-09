@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:DrinkingWaterBottleFillingStation;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Drinking Water Bottle Filling Station"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:DrinkingWaterFixture;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

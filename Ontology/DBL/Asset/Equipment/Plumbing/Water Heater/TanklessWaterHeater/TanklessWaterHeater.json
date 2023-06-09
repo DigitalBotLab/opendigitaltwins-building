@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:TanklessWaterHeater;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Tankless Water Heater"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:WaterHeater;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

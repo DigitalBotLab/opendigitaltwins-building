@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:StartSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Start Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:StartStopSetpoint;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

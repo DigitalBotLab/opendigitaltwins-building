@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:AccessReaderKeypad;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Access Reader with Keypad"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:AccessReader;1",
+    "dtmi:com:digitalbotlab:AccessKeypad;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

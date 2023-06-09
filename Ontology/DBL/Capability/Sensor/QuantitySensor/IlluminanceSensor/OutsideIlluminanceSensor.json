@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:OutsideIlluminanceSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Outside Illuminance Sensor"
+  },
+  "description": {"en": "The illuminance feedback from a sensor associated with outside"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:IlluminanceSensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

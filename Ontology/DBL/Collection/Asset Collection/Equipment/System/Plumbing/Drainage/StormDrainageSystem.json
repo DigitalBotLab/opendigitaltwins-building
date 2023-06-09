@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:StormDrainageSystem;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Storm Drainage System"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:DrainageSystem;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

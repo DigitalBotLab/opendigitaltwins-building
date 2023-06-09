@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:CapabilityComponent;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Capability Component"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:Component;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

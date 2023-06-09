@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:VehicleBollard;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Vehicle Bollard"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:VehicleAccessControlEquipment;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

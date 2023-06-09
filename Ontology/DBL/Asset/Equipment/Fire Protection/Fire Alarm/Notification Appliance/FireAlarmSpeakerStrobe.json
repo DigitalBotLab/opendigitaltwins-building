@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:FireAlarmSpeakerStrobe;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Fire Alarm Speaker Strobe"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:FireAlarmSpeaker;1",
+    "dtmi:com:digitalbotlab:FireAlarmStrobe;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

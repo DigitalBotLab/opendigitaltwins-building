@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:VFDRunLevelActuator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "VFD Run Level Actuator"
+  },
+  "description": {"en": "The percent command which sets the run level of the equipment vfd"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:RunLevelActuator;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

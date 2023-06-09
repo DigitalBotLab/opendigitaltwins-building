@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:OutsideAirEnthalpySetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Outside Air Enthalpy Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:AirEnthalpySetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

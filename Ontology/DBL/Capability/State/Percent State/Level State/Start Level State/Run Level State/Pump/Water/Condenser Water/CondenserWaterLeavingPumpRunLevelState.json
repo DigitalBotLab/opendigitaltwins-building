@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:CondenserWaterLeavingPumpRunLevelState;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Condenser Water Leaving Pump Run Level State"
+  },
+  "description": {"en": "The percent run level state of the leaving condenser water pump"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:CondenserWaterPumpRunLevelState;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

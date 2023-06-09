@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:VerticalLoadingDockLeveler;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Vertical Loading Dock Leveler"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:LoadingDockLeveler;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

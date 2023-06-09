@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:SumpPump;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Sump Pump"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:PlumbingPump;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:DistributionRacewayCollection;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Distribution Raceway Collection"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:DistributionAssetCollection;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

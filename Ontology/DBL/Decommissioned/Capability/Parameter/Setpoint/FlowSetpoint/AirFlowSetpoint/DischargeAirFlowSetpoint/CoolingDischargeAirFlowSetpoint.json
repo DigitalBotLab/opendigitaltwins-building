@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:CoolingDischargeAirFlowSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Cooling Discharge Air Flow Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:DischargeAirFlowSetpoint;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

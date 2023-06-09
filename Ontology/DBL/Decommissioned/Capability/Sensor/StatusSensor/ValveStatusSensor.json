@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:ValveStatusSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Valve Status Sensor"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:StatusSensor;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

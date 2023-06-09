@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:UnderfloorAirDeltaPressureSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Underfloor Air Delta Pressure Setpoint"
+  },
+  "description": {"en": "The desired value associated withn underfloor air delta pressure"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:AirDeltaPressureSetpoint;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:digitalbotlab:AirVelocityPressureSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Air Velocity Pressure Setpoint"
+  },
+  "description": {"en": "The desired value associated withn air velocity pressure"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:VelocityPressureSetpoint;1",
+    "dtmi:com:digitalbotlab:AirPressureSetpoint;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

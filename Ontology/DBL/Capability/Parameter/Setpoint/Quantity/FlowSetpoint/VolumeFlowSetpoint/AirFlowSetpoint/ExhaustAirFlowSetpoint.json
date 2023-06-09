@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:ExhaustAirFlowSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Exhaust Air Flow Setpoint"
+  },
+  "description": {"en": "The desired value associated withn exhaust air flow"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:AirFlowSetpoint;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

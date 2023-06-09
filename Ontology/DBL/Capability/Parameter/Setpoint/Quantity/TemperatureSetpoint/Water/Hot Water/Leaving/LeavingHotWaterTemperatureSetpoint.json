@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:LeavingHotWaterTemperatureSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Leaving Hot Water Temperature Setpoint"
+  },
+  "description": {"en": "The desired value associated with leaving hot water temperature"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:HotWaterTemperatureSetpoint;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

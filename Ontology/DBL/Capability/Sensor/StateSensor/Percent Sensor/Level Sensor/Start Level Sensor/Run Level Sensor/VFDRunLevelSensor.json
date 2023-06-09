@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:VFDRunLevelSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "VFD Run Level Sensor"
+  },
+  "description": {"en": "The run level feedback from a sensor associated with a VFD"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:RunLevelSensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

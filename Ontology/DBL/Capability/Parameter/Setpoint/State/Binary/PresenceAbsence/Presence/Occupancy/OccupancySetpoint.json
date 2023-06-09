@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:OccupancySetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Occupancy Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:PresenceSetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

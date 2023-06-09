@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:FaultResetSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Fault Reset Sensor"
+  },
+  "description": {"en": "The boolean status from a sensor associated with fault where 'reset' is 'true'"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:ResetSensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

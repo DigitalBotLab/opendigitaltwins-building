@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:PalletJack;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Pallet Jack"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:TransportEquipment;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

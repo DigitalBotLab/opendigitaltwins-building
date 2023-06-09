@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:RainfallRateSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Rainfall Rate Sensor"
+  },
+  "description": {"en": "The rate feedback from a sensor associated with rainfall"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:PrecipitationRateSensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

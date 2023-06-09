@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:RJ45Jack;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "RJ45 Jack"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:TwistedPairCableConnector;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

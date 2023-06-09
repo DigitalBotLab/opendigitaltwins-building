@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:ConveyanceEquipmentGroup;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Conveyance Equipment Group"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:EquipmentGroup;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

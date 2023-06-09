@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:ZoneAirNO2Sensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Zone Air NO2 Sensor"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:AirNO2Sensor;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

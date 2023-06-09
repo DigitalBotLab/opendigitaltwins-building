@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:PlumbingManifold;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Plumbing Manifold"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:PlumbingEquipment;1",
+    "dtmi:com:digitalbotlab:Manifold;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

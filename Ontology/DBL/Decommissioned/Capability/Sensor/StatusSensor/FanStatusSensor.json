@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:FanStatusSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Fan Status Sensor"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:StatusSensor;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

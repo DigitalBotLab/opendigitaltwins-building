@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:ReheatLevelActuator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Reheating Level Actuator"
+  },
+  "description": {"en": "The percent command which sets the reheat level of the equipment"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:HeatingLevelActuator;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

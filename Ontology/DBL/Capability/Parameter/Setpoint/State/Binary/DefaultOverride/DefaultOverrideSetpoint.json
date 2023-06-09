@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:DefaultOverrideSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Default/Override Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:BinarySetpoint;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

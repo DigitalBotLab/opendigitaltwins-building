@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:PeopleInferredOccupancySetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "People Inferred Occupancy Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:PeopleOccupancySetpoint;1",
+    "dtmi:com:digitalbotlab:InferredOccupancySetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

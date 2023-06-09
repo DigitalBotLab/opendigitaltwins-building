@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:BollardLuminaire;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Bollard Luminaire"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:Luminaire;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

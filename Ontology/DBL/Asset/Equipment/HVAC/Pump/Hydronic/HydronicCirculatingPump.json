@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:HydronicCirculatingPump;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Hydronic Circulating Pump"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:HydronicPump;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

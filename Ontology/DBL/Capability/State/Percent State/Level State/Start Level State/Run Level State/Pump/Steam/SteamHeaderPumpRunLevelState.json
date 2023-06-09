@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:SteamHeaderPumpRunLevelState;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Steam Header Pump Run Level State"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:SteamPumpRunLevelState;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

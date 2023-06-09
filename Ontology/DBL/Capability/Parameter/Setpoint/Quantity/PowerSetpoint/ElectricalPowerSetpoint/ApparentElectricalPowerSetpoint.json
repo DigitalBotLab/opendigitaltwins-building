@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:ApparentElectricalPowerSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Apparent Electrical Power Setpoint"
+  },
+  "description": {"en": "The desired value associated withn apparent electrical power"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:ElectricalPowerSetpoint;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

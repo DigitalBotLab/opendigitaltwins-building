@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:digitalbotlab:Department;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Department"
+  },
+  "description": {
+    "en": "An division or part of a large organization."
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:Organization;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

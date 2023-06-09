@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:DisableSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Disable Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:EnableDisableSetpoint;1",
+    "dtmi:com:digitalbotlab:OffSetpoint;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

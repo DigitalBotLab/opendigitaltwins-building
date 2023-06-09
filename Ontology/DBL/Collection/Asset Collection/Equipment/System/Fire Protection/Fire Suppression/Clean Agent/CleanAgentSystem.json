@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:CleanAgentSystem;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Clean Agent System"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:FireSuppressionSystem;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

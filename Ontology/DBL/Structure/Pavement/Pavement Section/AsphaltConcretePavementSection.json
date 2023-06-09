@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:AsphaltConcretePavementSection;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Asphalt Concrete Pavement Section"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:PavementSection;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

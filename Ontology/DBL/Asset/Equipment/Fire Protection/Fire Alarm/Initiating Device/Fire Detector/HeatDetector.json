@@ -1,0 +1,11 @@
+{
+  "@id": "dtmi:com:digitalbotlab:HeatDetector;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Heat Detector"
+  },
+  "extends": "dtmi:com:digitalbotlab:FireDetector;1",
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

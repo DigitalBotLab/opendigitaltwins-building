@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:DuctBank;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Duct Bank"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:DistributionRacewayCollection;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

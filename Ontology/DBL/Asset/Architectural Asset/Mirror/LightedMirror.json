@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:LightedMirror;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Lighted Mirror"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:Mirror;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

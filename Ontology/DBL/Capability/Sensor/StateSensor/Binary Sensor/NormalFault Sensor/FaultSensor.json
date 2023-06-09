@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:FaultSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Fault Sensor"
+  },
+  "description": {"en": "The boolean status from a sensor where 'fault' is 'true'"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:NormalFaultSensor;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

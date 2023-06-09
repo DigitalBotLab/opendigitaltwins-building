@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:PlumbingPumpGroup;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Pump Group (Plumbing)"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:PlumbingEquipmentGroup;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:StopState;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Stop State"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:StartStopState;1",
+    "dtmi:com:digitalbotlab:RunStopState;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:IntrusionDetectionSystem;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Intrusion Detection System"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:SecuritySystem;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

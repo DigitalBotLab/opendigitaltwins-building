@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:AirCurtain;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Air Curtain"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:HVACFan;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

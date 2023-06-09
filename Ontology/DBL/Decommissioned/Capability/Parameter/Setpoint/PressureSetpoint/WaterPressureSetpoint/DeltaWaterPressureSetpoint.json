@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:DeltaWaterPressureSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Delta Water Pressure Setpoint"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:WaterPressureSetpoint;1",
+    "dtmi:com:digitalbotlab:DeltaPressureSetpoint;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

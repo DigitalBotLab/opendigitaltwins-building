@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:PreheatLevelActuator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Preheating Level Actuator"
+  },
+  "description": {"en": "The percent command which sets the preheat level of the equipment"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:HeatingLevelActuator;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

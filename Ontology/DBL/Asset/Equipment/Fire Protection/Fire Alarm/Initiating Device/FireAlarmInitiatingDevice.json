@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:FireAlarmInitiatingDevice;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Fire Alarm Initiating Device"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:FireAlarmEquipment;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

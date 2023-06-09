@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:InductanceSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Inductance Setpoint"
+  },
+  "description": {"en": "The desired value associated withn inductance"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:QuantitySetpoint;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:digitalbotlab:PeopleInferredOccupancySensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "People Inferred Occupancy Sensor"
+  },
+  "description": {"en": "The boolean status from a sensor associated with people where 'inferred occupancy' is 'true'"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:PeopleOccupancySensor;1",
+    "dtmi:com:digitalbotlab:InferredOccupancySensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

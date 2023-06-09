@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:digitalbotlab:AirDeltaPressureDeadbandSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Air Delta Pressure Deadband Setpoint"
+  },
+  "description": {"en": "The deadband around the air delta pressure setpoint"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:AirDeltaPressureSetpoint;1",
+    "dtmi:com:digitalbotlab:DeadbandSetpoint;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

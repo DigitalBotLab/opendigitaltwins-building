@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:InletAirDeltaPressureSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Inlet Air Delta Pressure Sensor"
+  },
+  "description": {"en": "The delta pressure feedback from a sensor associated with inlet air"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:AirDeltaPressureSensor;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

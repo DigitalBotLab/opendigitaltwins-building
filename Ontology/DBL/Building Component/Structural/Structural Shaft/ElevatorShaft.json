@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:ElevatorShaft;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Elevator Shaft"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:StructuralShaft;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

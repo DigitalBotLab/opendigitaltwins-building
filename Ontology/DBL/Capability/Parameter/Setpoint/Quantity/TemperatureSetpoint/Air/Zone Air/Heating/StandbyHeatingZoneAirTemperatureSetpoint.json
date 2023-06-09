@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:StandbyHeatingZoneAirTemperatureSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Standby Heating Zone Air Temperature Setpoint"
+  },
+  "description": {"en": "The desired value associated with standby heating zone air temperature"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:HeatingZoneAirTemperatureSetpoint;1",
+    "dtmi:com:digitalbotlab:StandbyHeatingSetpoint;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

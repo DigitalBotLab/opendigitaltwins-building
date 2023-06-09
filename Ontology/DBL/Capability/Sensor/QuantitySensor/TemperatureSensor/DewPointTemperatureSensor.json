@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:DewPointTemperatureSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Dew Point Temperature Sensor"
+  },
+  "description": {"en": "The dew point temperature feedback from a sensor"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:TemperatureSensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

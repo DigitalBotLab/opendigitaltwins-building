@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:HVACTank;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "HVAC Tank"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:HVACEquipment;1",
+    "dtmi:com:digitalbotlab:Tank;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

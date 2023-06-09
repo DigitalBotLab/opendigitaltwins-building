@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:TelecommunicationPatchCord;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Telecommunication Patch Cord"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:TelecommunicationCable;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

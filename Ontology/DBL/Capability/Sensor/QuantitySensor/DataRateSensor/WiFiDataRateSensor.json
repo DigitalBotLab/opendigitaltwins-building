@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:WiFiDataRateSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "WiFi Data Rate Sensor"
+  },
+  "description": {"en": "The data rate feedback from a sensor associated with wifi"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:DataRateSensor;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

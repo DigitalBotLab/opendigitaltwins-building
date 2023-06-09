@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:VentilationHoodRunState;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Ventilation Hood Run State"
+  },
+  "description": {"en": "The Boolean state of the ventilation hood which is 'run' when 'true'"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:RunState;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

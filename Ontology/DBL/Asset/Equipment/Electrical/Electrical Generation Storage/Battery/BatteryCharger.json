@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:BatteryCharger;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Battery Charger"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:BatteryEquipment;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

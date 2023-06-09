@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:DeltaWaterPressureSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Delta Water Pressure Sensor"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:WaterPressureSensor;1",
+    "dtmi:com:digitalbotlab:DeltaPressureSensor;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

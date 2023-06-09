@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:CombinationGrateCurbInlet;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Combination Grate-Curb Inlet"
+  },
+  "extends": [
+    "dtmi:com:digitalbotlab:GrateInlet;1",
+    "dtmi:com:digitalbotlab:CurbInlet;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

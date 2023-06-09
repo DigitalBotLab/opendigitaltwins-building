@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:UnoccupiedActuator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Unoccupied Actuator"
+  },
+  "description": {"en": "The boolean command which sets the state of the equipment to 'unoccupied' when 'true'"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:OccupiedUnoccupiedActuator;1",
+    "dtmi:com:digitalbotlab:AbsentActuator;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

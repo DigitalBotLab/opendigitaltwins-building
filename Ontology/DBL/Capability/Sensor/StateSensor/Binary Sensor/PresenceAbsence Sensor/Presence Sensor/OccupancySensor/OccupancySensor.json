@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:OccupancySensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Occupancy Sensor"
+  },
+  "description": {"en": "The boolean status from a sensor where 'occupancy' is 'true'"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:PresenceSensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

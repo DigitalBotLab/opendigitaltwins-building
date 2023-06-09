@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:CoaxialCable;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Coaxial Cable"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:TelecommunicationCable;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:StartLevelSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Start Level Sensor"
+  },
+  "description": {"en": "The start level feedback from a sensor"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:LevelSensor;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

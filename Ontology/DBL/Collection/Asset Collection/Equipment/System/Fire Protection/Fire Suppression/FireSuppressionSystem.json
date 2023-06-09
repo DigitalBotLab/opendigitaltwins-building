@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:FireSuppressionSystem;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Fire Suppression System"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:FireProtectionSystem;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

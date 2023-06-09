@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:ChilledWaterEnteringValvePositionActuator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Chilled Water Entering Valve Position Actuator"
+  },
+  "description": {"en": "The percent command which sets the position of the entering chilled water valve"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:ChilledWaterValvePositionActuator;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

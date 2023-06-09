@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:DilutionTank;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Dilution Tank"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:ChemicalDilutionDrainageEquipment;1",
+    "dtmi:com:digitalbotlab:PlumbingTank;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

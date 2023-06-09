@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:AudioDigitalSignalProcessor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Audio Digital Signal Processor (DSP)"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:AudioVisualEquipment;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

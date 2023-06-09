@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:digitalbotlab:CondenserWaterDeltaPressureDeadbandSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Condenser Water Delta Pressure Deadband Setpoint"
+  },  
+  "description": {"en": "The deadband around the condenser water delta pressure setpoint"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:CondenserWaterDeltaPressureSetpoint;1",
+    "dtmi:com:digitalbotlab:DeadbandSetpoint;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

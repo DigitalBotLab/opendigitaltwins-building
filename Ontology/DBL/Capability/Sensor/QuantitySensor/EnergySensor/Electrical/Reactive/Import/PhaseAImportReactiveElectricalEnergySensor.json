@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:PhaseAImportReactiveElectricalEnergySensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Phase A Import Reactive Electrical Energy Sensor"
+  },
+  "description": {"en": "The reactive electrical energy feedback from a sensor associated with phase a import"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:ReactiveElectricalEnergySensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:digitalbotlab:RefrigerantStaticPressureSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Refrigerant Static Pressure Setpoint"
+  },
+  "description": {"en": "The desired value associated with refrigerant static pressure"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:StaticPressureSetpoint;1",
+    "dtmi:com:digitalbotlab:RefrigerantPressureSetpoint;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

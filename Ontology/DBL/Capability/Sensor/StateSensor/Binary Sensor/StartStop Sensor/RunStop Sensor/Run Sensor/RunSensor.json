@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:RunSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Run Sensor"
+  },
+  "description": {"en": "The boolean status from a sensor where 'run' is 'true'"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:RunStopSensor;1",
+    "dtmi:com:digitalbotlab:StartSensor;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

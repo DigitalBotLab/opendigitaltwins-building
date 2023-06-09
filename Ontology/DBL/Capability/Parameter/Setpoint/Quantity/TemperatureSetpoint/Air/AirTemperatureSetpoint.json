@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:AirTemperatureSetpoint;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Air Temperature Setpoint"
+  },
+  "description": {"en": "The desired value associated withn air temperature"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:TemperatureSetpoint;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:CondenserWaterHeaderPumpRunState;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Condenser Water Header Pump Run State"
+  },
+  "description": {"en": "The Boolean state of the condenser water header pump which is 'run' when 'true'"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:CondenserWaterPumpRunState;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

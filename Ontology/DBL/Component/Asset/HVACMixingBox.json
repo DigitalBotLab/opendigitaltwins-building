@@ -1,0 +1,24 @@
+{
+  "@id": "dtmi:com:digitalbotlab:HVACMixingBox;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Mixing Box"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:AssetComponent;1"
+  ],
+  "contents": [
+    {
+      "@type": "Property",
+      "displayName": {
+        "en": "economizer"
+      },
+      "name": "economizer",
+      "schema": "boolean",
+      "writable": true
+    }
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

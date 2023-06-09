@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:SinglemodeFiberOpticCableConnector;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Singlemode Fiber Optic Cable Connector"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:FiberOpticCableConnector;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:StartLevelState;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Start Level State"
+  },
+  "description": {"en": "The percent start level state of the equipment"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:LevelState;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

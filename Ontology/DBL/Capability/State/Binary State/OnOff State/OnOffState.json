@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:OnOffState;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "On/Off State"
+  },
+  "description": {"en": "The Boolean state of the equipment which is 'on' when 'true' and 'off' when 'false'"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:BinaryState;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:OpenSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Open Sensor"
+  },
+  "description": {"en": "The boolean status from a sensor where 'open' is 'true'"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:OpenCloseSensor;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

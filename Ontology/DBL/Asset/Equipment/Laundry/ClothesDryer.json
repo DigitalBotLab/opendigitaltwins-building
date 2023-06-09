@@ -1,0 +1,18 @@
+{
+  "@id": "dtmi:com:digitalbotlab:ClothesDryer;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Dryer"
+  },
+  "description": {
+    "en": "An applicance used to dry laundry such as clothes or other textiles."
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:LaundryEquipment;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

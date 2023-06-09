@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:Pavement;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Pavement Structure"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:Structure;1"
+  ],
+  "contents": [
+    
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

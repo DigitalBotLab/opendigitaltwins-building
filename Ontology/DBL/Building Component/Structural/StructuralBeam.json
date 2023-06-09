@@ -1,0 +1,13 @@
+{
+  "@id": "dtmi:com:digitalbotlab:StructuralBeam;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Structural Beam"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:StructuralBuildingComponent;1"
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

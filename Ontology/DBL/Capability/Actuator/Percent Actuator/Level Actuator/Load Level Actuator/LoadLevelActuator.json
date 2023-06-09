@@ -1,0 +1,16 @@
+{
+  "@id": "dtmi:com:digitalbotlab:LoadLevelActuator;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Load Level Actuator"
+  },
+  "description": {"en": "The percent command which sets the load level of the equipment"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:LevelActuator;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

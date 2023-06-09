@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:digitalbotlab:StairPressurizationFan;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Stair Pressurization Fan"
+  },
+  "extends" : [
+    "dtmi:com:digitalbotlab:HVACFan;1"
+  ],
+  "contents": [
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}

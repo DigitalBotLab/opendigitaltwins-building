@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:digitalbotlab:WindSpeedSensor;1",
+  "@type": "Interface",
+  "displayName": {
+    "en": "Wind Speed Sensor"
+  },
+  "description": {"en": "The speed feedback from a sensor associated with wind"},
+  "extends" : [
+    "dtmi:com:digitalbotlab:LinearSpeedSensor;1"
+  ],
+  "contents": [
+
+  ],
+  "@context": [
+    "dtmi:dtdl:context;3"
+  ]
+}
